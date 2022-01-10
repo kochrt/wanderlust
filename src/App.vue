@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <CustomerList />
+    <div style="margin-top: 1rem">
+      <a href="https://github.com/kochrt/wanderlust">Github</a>
+    </div>
   </div>
 </template>
 
@@ -17,5 +20,4 @@ export default Vue.extend({
 </script>
 
 <style>
-
 </style>
